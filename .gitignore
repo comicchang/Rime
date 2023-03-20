@@ -1,1 +1,11 @@
 .DS_Store
+
+build/
+sync/
+trash/
+
+*.userdb/
+
+user.yaml
+installation.yaml
+.history
